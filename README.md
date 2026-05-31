@@ -2,11 +2,6 @@
 
 A **console-based Student Database Management System** developed using **C++**, designed to store and manage **real-life school student records** in a **human-readable format**.
 
-This project is ideal for:
-- 🎓 Academic projects
-- 💼 Portfolio showcase
-- 🎤 Interview explanations
-
 ---
 
 ## ✨ Features
